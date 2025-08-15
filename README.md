@@ -3,8 +3,10 @@ A privacy hardened daily use browser install guide.
 The spectrum of how privacy hardened you want your browser to be (aka, your threat model) can vary greatly. This install is probably the most extreme you can get while still having a browser functional enough to be a daily user.
 
 
+
 ## About fingerprinting
 Info about fingerprinting (you should read this!): https://github.com/arkenfox/user.js/wiki/3.3-Overrides-%5BTo-RFP-or-Not%5D
+
 Basic explanation of what fingerprinting is: https://coveryourtracks.eff.org/learn
 
 This install uses Resist Fingerprinting (RFP).
@@ -15,6 +17,7 @@ In summary:
 - RFP makes it so that you always use the light theme
 
 For times when your threat model does demand that you are not fingerprinted at all, you can either use the Tor browser or Mullvad Browser in conjunction with a VPN (doesn't have to be Mullvad VPN.) For more information: https://www.privacyguides.org/en/desktop-browsers/#mullvad-browser and https://www.privacyguides.org/en/tor
+
 
 
 ## Guide
